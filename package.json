@@ -1,0 +1,21 @@
+{
+  "name": "angular-carousel",
+  "engines": {
+    "node": ">= 0.8"
+  },
+  "devDependencies": {
+    "karma": "~ 0.8.0",
+    "grunt": "~0.4.1",
+    "grunt-contrib-concat": "*",
+    "grunt-contrib-jshint": "*",
+    "grunt-contrib-uglify": "*",
+    "grunt-contrib-connect": "*",
+    "grunt-contrib-cssmin": "~0.6.0",
+    "grunt-release": "~0.3.3",
+    "grunt-contrib-watch": "~0.4.4"
+  },
+  "scripts": {
+    "test": "karma start test/karma.conf.js --single-run --browsers Chrome",
+    "test-server": "karma start test/karma.conf.js --browsers Chrome"
+  }
+}
