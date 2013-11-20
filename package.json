@@ -1,5 +1,5 @@
 {
-  "name": "angular-carousel",
+  "name": "build-monitor-slider",
   "engines": {
     "node": ">= 0.8"
   },
@@ -12,7 +12,8 @@
     "grunt-contrib-connect": "*",
     "grunt-contrib-cssmin": "~0.6.0",
     "grunt-release": "~0.3.3",
-    "grunt-contrib-watch": "~0.4.4"
+    "grunt-contrib-watch": "~0.4.4",
+    "grunt-nodemon": "~0.1.2"
   },
   "scripts": {
     "test": "karma start test/karma.conf.js --single-run --browsers Chrome",

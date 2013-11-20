@@ -1,16 +1,16 @@
 {
-  "author": "revolunet",
-  "name": "angular-carousel",
-  "description": "Mobile friendly AngularJS carousel",
-  "version": "0.0.8",
-  "homepage": "https://github.com/revolunet/angular-carousel",
-  "repository": {
-    "type": "git",
-    "url": "git://github.com/revolunet/angular-carousel.git"
-  },
-  "main": "./dist/angular-carousel.js",
-  "dependencies": {
-    "angular": "PatternConsulting/bower-angular", 
-    "jquery": "1.9.1"
-  }
+    "author": "charles",
+    "dependencies": {
+        "angular": "PatternConsulting/bower-angular",
+        "jquery": "1.9.1"
+    },
+    "description": "Build Monitor Slider",
+    "homepage": "https://github.com/char1s/build-monitor-slider",
+    "main": "./dist/angular-carousel.js",
+    "name": "angular-carousel",
+    "repository": {
+        "type": "git",
+        "url": "git://github.com/revolunet/angular-carousel.git"
+    },
+    "version": "0.0.8"
 }

@@ -1,18 +1,16 @@
 {
-  "author": "revolunet",
-  "name": "angular-carousel",
-  "description": "Mobile friendly AngularJS carousel",
-  "version": "0.0.8",
-  "homepage": "https://github.com/revolunet/angular-carousel",
+  "author": "charles",
+  "name": "build-monitor-slider",
+  "description": "Build Monitor Slider",
+  "version": "0.0.1",
+  "homepage": "https://github.com/char1s/build-monitor-slider",
   "repository": {
     "type": "git",
-    "url": "git://github.com/revolunet/angular-carousel.git"
+    "url": "git@github.com:char1s/build-monitor-slider.git"
   },
   "main": "./dist/angular-carousel.js",
   "dependencies": {
-    "angular": "1.0.6",
-    "angular-mocks": "1.0.6",
-    "angular-scenario": "1.0.6",
-    "jquery": "1.9.1"
+    "angular": "1.2.0",
+    "jquery": "1.10.2"
   }
 }
